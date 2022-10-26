@@ -1,0 +1,22 @@
+/* You need to create the rest of styles for the layout shown */
+
+.choices {
+    display: flex;
+    flex-direction: row;
+}
+
+.options {
+    flex-basis: 12%;
+    margin: 0 2rem;
+    border: 1px dashed dodgerblue;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    box-shadow: 0.25rem 0.25rem 0.5rem rgb(143, 143, 143);
+}
+
+.pieces {
+    display: flex;
+    flex-direction: row;
+    margin: 1rem 0 0rem 2rem;
+}
+
